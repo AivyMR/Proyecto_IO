@@ -100,7 +100,7 @@ function MenuComponent() {
                     id="tooltip"
                     style={{ width: "100%", wordBreak: "break-all" }}
                   >
-                    Explicacion Multiplicacion de Matrices
+                    Este algoritmo defina el mínimo de multiplicaciones que se deben hacer para resolver una multiplicación de matrices
                   </Tooltip>
                 }
               >

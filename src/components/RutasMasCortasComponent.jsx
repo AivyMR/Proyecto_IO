@@ -3,7 +3,9 @@ import { Button } from "react-bootstrap"
 export const RutasMasCortasComponent = () => {
   return (
     <>
-        <div>RutasMasCortasComponent</div>
+        <div>Rutas Mas Cortas</div>
+        <br />
+        <div>No disponible</div>
         <Button href="/">Volver</Button>
     </>
   )

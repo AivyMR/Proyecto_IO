@@ -1,3 +1,7 @@
+  // muliplicacion de matrices
+  // References : https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
+  // https://react-bootstrap.netlify.app
+
 import { Button, Form, Container, Row, Col, Alert } from "react-bootstrap"
 import { useState, useEffect } from 'react'
 
@@ -55,10 +59,6 @@ export const MultiplicacionDeMatricesComponent = () => {
     console.log(arrayMat)
   }, [arrayMat])
 
-
-  // matrix chain multiplication
-  // Based on : https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
-
   const MatrixChainOrder = (p, i, j) => {
     if (i == j)
       return 0;
@@ -82,7 +82,7 @@ export const MultiplicacionDeMatricesComponent = () => {
   return (
     <Container>
       <br />
-      <div>MultiplicacionDeMatricesComponent</div>
+      <div>Multiplicacion De Matrices</div>
       <br />
       <Row>
         <Col xs={6}>

@@ -15,7 +15,7 @@ function MenuComponent() {
                 id="tooltip"
                 style={{ width: "100%", wordBreak: "break-all" }}
               >
-                Explicacion Rutas mas cortas
+                Este algoritmo encuentra las rutas mas optimas entre nodos de acuerdo al valor que requiere moverse entre ellos.
               </Tooltip>
             }
           >
@@ -32,7 +32,7 @@ function MenuComponent() {
                   id="tooltip"
                   style={{ width: "100%", wordBreak: "break-all" }}
                 >
-                  Explicacion Problema de la Mochila
+                  Este algoritmo se basa en calcular la opcion mas optima para guardar objetos en una mochila de acuerdo a su peso y valor.
                 </Tooltip>
               }
             >
@@ -49,7 +49,7 @@ function MenuComponent() {
                   id="tooltip"
                   style={{ width: "100%", wordBreak: "break-all" }}
                 >
-                  Explicacion Reemplazo de Equipos
+                  Este algoritmo busca la optimización para reemplazar equipos en el mejor tiempo de acuerdo a su mantenimiento, vida util y reventa.
                 </Tooltip>
               }
             >
@@ -66,7 +66,7 @@ function MenuComponent() {
                   id="tooltip"
                   style={{ width: "100%", wordBreak: "break-all" }}
                 >
-                  Explicacion Arboles Binarios de Busqueda Optimos
+                  Este algoritmo se utiliza para encontrar el costo promedio minimo de un árbol de busqueda binario.
                 </Tooltip>
               }
             >
@@ -83,7 +83,7 @@ function MenuComponent() {
                     id="tooltip"
                     style={{ width: "100%", wordBreak: "break-all" }}
                   >
-                    Explicacion Series Deportivas
+                    Este algoritmo se utiliza para saber las probabilidades de que un equipo deportivo gane un partido, utilizando las probabilidades de si juega en casa o no.
                   </Tooltip>
                 }
               >

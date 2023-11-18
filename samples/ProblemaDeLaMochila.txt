@@ -1,0 +1,17 @@
+1. Capacidad 4
+objeto1 peso:4 valor:1
+objeto2 peso:5 valor:2
+objeto3 peso:1 valor:3
+res:3
+
+2. Capacidad 50
+objeto1 peso:10 valor:60
+objeto2 peso:20 valor:100
+objeto3 peso:30 valor:120
+res: 220
+
+3. Capacidad 6
+objeto1 peso:1 valor:10
+objeto2 peso:2 valor:15
+objeto3 peso:3 valor:40
+res: 65

@@ -130,7 +130,12 @@ export const SeriesDeportivasComponent = () => {
           </tbody>
         </Table>
       )}
-      <Button href="/">Volver</Button>
+      <Row>
+        <Col>
+        <Button href="/">Volver</Button>
+        </Col>
+      </Row>
+      
     </Container>
   );
 };

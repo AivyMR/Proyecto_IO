@@ -147,7 +147,11 @@ export const ProblemaDeLaMochilaComponent = () => {
         Reiniciar
       </Button>
       {solucion.length > 0 && renderSolucion()}
-      <Button href="/">Volver</Button>
+      <Row>
+        <Col>
+        <Button href="/">Volver</Button>
+        </Col>
+      </Row>
     </Container>
   );
 };
